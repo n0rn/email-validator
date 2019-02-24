@@ -6,6 +6,8 @@ A very simple library that allows you to validate an e-mail address, check if it
  String validation:
 
 `PHPEmailAddressValidator::validateString($email);`
+
+
 Complete validation:
 
 `PHPEmailAddressValidator::validate($email);`
